@@ -99,7 +99,7 @@ namespace CItyCItyInformationManagementSystem.DAL
         {
             SqlConnection connection = new SqlConnection(connectionString);
             string query =
-                "select cityName,city.about,noOfDwellers,location,weather,country.countryName,country.about from city inner join country on country.countryId = city.countryId where cityName ='" +
+                "select cityName,city.about,noOfDwellers,location,weather,country.countryName,country.about from city inner join country on country.countryId = city.countryId where countryName ='" +
                 cityName + "'";
 
             // string query = "SELECT * FROM CIty WHERE CItyName ='" + CItyName + "'";

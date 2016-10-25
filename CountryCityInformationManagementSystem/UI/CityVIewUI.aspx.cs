@@ -118,10 +118,10 @@ namespace CountryCityInformationManagementSystem.UI
 
                 else if (countryRadioButton.Checked)
                 {
-                    isCountryNameExist = cityManager.IsCountryNameExist(countryDropDownList.Text.ToString());
+                    isCountryNameExist = cityManager.IsCountryNameExist(countryDropDownList.SelectedItem.ToString());
                     if (isCountryNameExist == true)
                     {
-                        CIty GetCountryByName = cityManager.GetCountryByName(countryDropDownList.Text.ToString());
+                        CIty GetCountryByName = cityManager.GetCountryByName(countryDropDownList.SelectedItem.ToString());
                         List<CIty> aCountry = new List<CIty>();
                         aCountry.Add(GetCountryByName);
                         cityListGridView.DataSource = aCountry;

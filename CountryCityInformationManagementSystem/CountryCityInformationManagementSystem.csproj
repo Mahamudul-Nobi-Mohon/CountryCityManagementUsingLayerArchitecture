@@ -75,8 +75,8 @@
   <ItemGroup>
     <Compile Include="BLL\CityManager.cs" />
     <Compile Include="BLL\CountryManager.cs" />
-    <Compile Include="Classes\CIty.cs" />
-    <Compile Include="Classes\Country.cs" />
+    <Compile Include="Models\CIty.cs" />
+    <Compile Include="Models\Country.cs" />
     <Compile Include="DAL\CItyGateway.cs" />
     <Compile Include="DAL\CountryGateway.cs" />
     <Compile Include="Database Link\DatabaseConnectionLink.cs" />
@@ -118,7 +118,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Models\" />
+    <Folder Include="Classes\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
