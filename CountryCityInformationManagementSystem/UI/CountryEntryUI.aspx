@@ -50,7 +50,7 @@
 <body>
     <form id="form1" runat="server">
         <div class="container">
-            <div class="col-md-10 col-md-ofset-1">
+            <div class="col-md-10 col-md-offset-1">
                 <%--<div class="col-md-8 col-md-ofset-2">--%>
                 <table class="tab-content table table-bordered table-responsive">
                     <tr>

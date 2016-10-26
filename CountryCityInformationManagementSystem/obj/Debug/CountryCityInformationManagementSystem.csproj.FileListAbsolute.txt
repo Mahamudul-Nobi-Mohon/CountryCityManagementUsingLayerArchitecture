@@ -27,3 +27,4 @@ H:\coppy from desktop 23-10-2016\justCountryCityDB-master\justCountryCityDB-mast
 H:\coppy from desktop 23-10-2016\justCountryCityDB-master\justCountryCityDB-master\CountryCityManagement-master\CountryCityInformationManagementSystem\bin\CountryCityInformationManagementSystem.pdb
 H:\coppy from desktop 23-10-2016\justCountryCityDB-master\justCountryCityDB-master\CountryCityManagement-master\CountryCityInformationManagementSystem\obj\Debug\CountryCityInformationManagementSystem.dll
 H:\coppy from desktop 23-10-2016\justCountryCityDB-master\justCountryCityDB-master\CountryCityManagement-master\CountryCityInformationManagementSystem\obj\Debug\CountryCityInformationManagementSystem.pdb
+H:\coppy from desktop 23-10-2016\justCountryCityDB-master\justCountryCityDB-master\CountryCityManagement-master\CountryCityInformationManagementSystem\obj\Debug\CountryCityInformationManagementSystem.csprojResolveAssemblyReference.cache

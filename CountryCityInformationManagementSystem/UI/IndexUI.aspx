@@ -56,7 +56,7 @@
 <body>
      <form id="form1" runat="server">
         <div class="container">
-            <div id="m" class="col-md-8 col-md-ofset-2">
+            <div id="m" class="col-md-8">
 
                     <table class="tab-content table-responsive table table-bordered table-hover text-center">
                         <tr>
